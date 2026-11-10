@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Novawise-Thailand.png" width="120" alt="Novawise" />
+<img src="https://github.com/novawise-th.png" width="120" alt="Novawise" />
 
 # Novawise Thailand
 
